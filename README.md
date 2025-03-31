@@ -13,10 +13,7 @@ This project utilizes Ethereum blockchain, Metamask, and Ganache to enable patie
 - **Version Control:** Git
 - **Development Environment:** Node.js
 
-## Demo Video:
-[Watch the Demo Video](https://www.youtube.com/watch?v=3W5-6diqvV0)
 
----
 
 ## Screenshots:
 
